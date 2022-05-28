@@ -12,3 +12,6 @@ Para compilar, use o seguinte comando:
 Para executar, use o seguinte comando: 
 ```java Main```  
 É necessário que você tenha o Java JRE 8 ou mais recente instalado.
+
+### Comandos
+<kbd>Enter</kbd> para avançar para o próximo ciclo.
